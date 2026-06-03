@@ -9,6 +9,7 @@
 - Origin:
 - Process:
 - Roast level:
+- Roaster:
 
 ## Goal
 

@@ -75,6 +75,7 @@ Must contain:
 - Origin
 - Process
 - Roast level
+- Roaster
 
 ### Equipment
 - Brewer

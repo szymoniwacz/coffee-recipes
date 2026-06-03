@@ -25,6 +25,18 @@ Each method has its own template because different variables drive extraction an
 
 | Method | Recipe | Coffee | Status | File |
 |--------|--------|--------|--------|------|
+| V60 | Strong | Xin Chao Hanoi (100% Robusta, speciality) · 1996 Coffee | tested | [recipes/robusta-honey/v60/strong.md](recipes/robusta-honey/v60/strong.md) |
+| V60 | Balanced | Xin Chao Hanoi (100% Robusta, speciality) · 1996 Coffee | tested | [recipes/robusta-honey/v60/balanced.md](recipes/robusta-honey/v60/balanced.md) |
+| V60 | Stable | Xin Chao Hanoi (100% Robusta, speciality) · 1996 Coffee | baseline | [recipes/robusta-honey/v60/stable.md](recipes/robusta-honey/v60/stable.md) |
+| V60 | Sweetness + body | Xin Chao Hanoi (100% Robusta, speciality) · 1996 Coffee | tested | [recipes/robusta-honey/v60/sweetness-body.md](recipes/robusta-honey/v60/sweetness-body.md) |
+| V60 Switch | Immersion, sweetness + body | Xin Chao Hanoi (100% Robusta, speciality) · 1996 Coffee | tested | [recipes/robusta-honey/v60-switch/immersion-sweetness-body.md](recipes/robusta-honey/v60-switch/immersion-sweetness-body.md) |
+| Syphon 3-cup | Sweet | Xin Chao Hanoi (100% Robusta, speciality) · 1996 Coffee | tested | [recipes/robusta-honey/syphon/sweet.md](recipes/robusta-honey/syphon/sweet.md) |
+| Syphon 3-cup | Stable + bite | Xin Chao Hanoi (100% Robusta, speciality) · 1996 Coffee | tested | [recipes/robusta-honey/syphon/stable-bite.md](recipes/robusta-honey/syphon/stable-bite.md) |
+| Aeropress Prism | Sweet & Clean | Xin Chao Hanoi (100% Robusta, speciality) · 1996 Coffee | tested | [recipes/robusta-honey/aeropress-prism/sweet-clean.md](recipes/robusta-honey/aeropress-prism/sweet-clean.md) |
+| Aeropress Prism | Killer | Xin Chao Hanoi (100% Robusta, speciality) · 1996 Coffee | tested | [recipes/robusta-honey/aeropress-prism/killer.md](recipes/robusta-honey/aeropress-prism/killer.md) |
+| Aeropress | Paper filter | Xin Chao Hanoi (100% Robusta, speciality) · 1996 Coffee | tested | [recipes/robusta-honey/aeropress-paper/paper-filter.md](recipes/robusta-honey/aeropress-paper/paper-filter.md) |
+| Electric moka pot | Current baseline | Xin Chao Hanoi (100% Robusta, speciality) · 1996 Coffee | baseline | [recipes/robusta-honey/electric-moka-pot/current-baseline.md](recipes/robusta-honey/electric-moka-pot/current-baseline.md) |
+| Electric moka pot | Stronger, more concentrated | Xin Chao Hanoi (100% Robusta, speciality) · 1996 Coffee | experimental | [recipes/robusta-honey/electric-moka-pot/stronger-concentrated.md](recipes/robusta-honey/electric-moka-pot/stronger-concentrated.md) |
 
 ## Structure
 

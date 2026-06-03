@@ -9,6 +9,7 @@
 - Origin:
 - Process:
 - Roast level:
+- Roaster:
 
 ## Goal
 
@@ -37,11 +38,11 @@
 - Top chamber preheated: yes / no / unknown
 
 ## Brewing Workflow
-1. 
-2. 
-3. 
-4. 
-5. 
+1.
+2.
+3.
+4.
+5.
 
 ## Shutdown Cue
 - Shutdown cue:
