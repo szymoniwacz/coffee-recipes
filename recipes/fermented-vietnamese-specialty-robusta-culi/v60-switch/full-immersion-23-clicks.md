@@ -16,7 +16,7 @@
 ## Status
 
 - Status: experimental
-- Label: promising — **best logged result**
+- Label: promising
 - Experiment: 2 of 4
 - Last updated: 2026-06-05
 
@@ -125,8 +125,8 @@ Full closed-valve immersion without bloom — finer than experiment 1 to improve
 
 ## Historical Notes
 
-- Best observed result in the 140 g series — clearer flavor, no bitterness at 23 clicks.
-- Still slightly low sweetness — led to experiment 4 hypothesis (120 g / 23 clicks).
+- Best result in the 140 g series — clearer flavor, no bitterness at 23 clicks.
+- Still slightly low sweetness — led to [full immersion, 23 clicks, 120 g](./full-immersion-23-clicks-120g.md), now current best.
 - Compared to [bloom, 24 clicks](./bloom-24-clicks.md): much better; full immersion without bloom confirmed.
 - Previous: [bloom, 24 clicks](./bloom-24-clicks.md) · Next: [full immersion, 22 clicks](./full-immersion-22-clicks.md)
 

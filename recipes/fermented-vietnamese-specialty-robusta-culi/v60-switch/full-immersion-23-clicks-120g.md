@@ -6,19 +6,20 @@
 - **Valve:** closed · **Bloom:** no
 - **Immersion / release:** closed 0:00–1:30 · open at 1:30 · ~60 s rest after drawdown
 - **Pour schedule:** Pour 120 g immediately (closed) → minimal swirl → release at 1:30
+- **Serve:** preheat cup/mug before pouring
 
 ## Short Version
 
-1. Close valve. No bloom — pour 120 g immediately; minimal swirl.
-2. Keep valve closed until 1:30.
-3. Open at 1:30; after drawdown (~2:00), rest ~60 s before serving. *(Not yet brewed.)*
+1. Preheat serving cup or mug.
+2. Close valve. No bloom — pour 120 g immediately; minimal swirl.
+3. Keep valve closed until 1:30; open at 1:30; after drawdown (~2:00), rest ~60 s before serving.
 
 ## Status
 
-- Status: experimental
-- Label: next planned experiment
+- Status: tested
+- Label: very good — **current best**
 - Experiment: 4 of 4
-- Last updated: 2026-06-05
+- Last updated: 2026-06-06
 
 ## Coffee
 
@@ -39,6 +40,7 @@ More body, sweetness and concentration while keeping fermentation character unde
 - Grinder: Comandante C40
 - Kettle: unknown
 - Scale: unknown
+- Serving vessel: preheat cup or mug before serving
 
 ## Parameters
 
@@ -78,24 +80,21 @@ More body, sweetness and concentration while keeping fermentation character unde
 - Stirring: none
 - Swirl: minimal swirl after main pour
 - Agitation before release: minimal swirl only
-- Bed settling notes: ~60 s rest after drawdown before serving
+- Bed settling notes: ~60 s rest after drawdown before serving; pour into preheated cup/mug
 
 ## Result
 
-Expected — not yet brewed:
-
-- Sweetness: more than 140 g tests — target higher sweetness
-- Body: more than 140 g tests — target higher body
+- Sweetness: high — hypothesis confirmed vs 140 g runs
+- Body: high — more than 140 g experiments
 - Acidity: unknown
-- Bitterness: controlled — avoid experiment 3 level (22 clicks)
+- Bitterness: controlled — no issue at 23 clicks
 - Clarity: unknown
 - Strength: higher concentration than 140 g runs
 - Aftertaste: unknown
-- Taste after cooling: unknown
-- Fermentation character: maintain control — light fermentation acceptable
+- Taste after cooling: unknown — preheat cup/mug to avoid rapid cooling in serving vessel
+- Fermentation character: under control
 - Dilution: less than 140 g runs
-
-Best observed so far in series ([full immersion, 23 clicks](./full-immersion-23-clicks.md) — 140 g, 23 clicks): clearer flavor, still slightly low sweetness.
+- Overall: very good — best result in the series so far
 
 ## Extraction Logic
 
@@ -104,13 +103,13 @@ Best observed so far in series ([full immersion, 23 clicks](./full-immersion-23-
 - **120 g vs 140 g:** 140 g at 1:14 felt diluted across experiments 1–3; reducing water to 1:12 should raise concentration, body and sweetness without pushing grind finer.
 - **Valve open at 1:30:** consistent release time across promising experiments 2 and 3; experiment 1 used 1:35 with bloom and coarser grind.
 - **90°C:** held constant across all experiments; supports sweetness without amplifying bitterness from finer grinds.
-- **Post-drawdown rest ~60 s:** planned to let the cup settle and integrate before serving — not yet tested.
+- **Post-drawdown rest ~60 s:** lets the brew settle before serving; pair with **preheated cup/mug** — small volume cools quickly in a cold vessel.
 
 ## Tuning Guide
 
 | Goal | Change |
 |---|---|
-| More sweetness | 120 g water (this recipe); post-drawdown rest; avoid coarsening past 23 clicks |
+| More sweetness | 120 g water (this recipe); post-drawdown rest; preheat serving cup; avoid coarsening past 23 clicks |
 | More body | 120 g water; 23 clicks; full 1:30 closed immersion |
 | More clarity | not tested — shorter immersion or earlier release |
 | More strength | less water (this recipe vs 140 g); do not go finer than 22 clicks without bitterness check |
@@ -129,12 +128,13 @@ Best observed so far in series ([full immersion, 23 clicks](./full-immersion-23-
 | Sour / sharp | underextraction | slightly finer; ensure full immersion to 1:30 |
 | Drawdown too slow | too fine | coarser within 23–24 range |
 | Diluted / thin body | too much water (140 g experiments) | reduce to 120 g |
+| Cools too fast in cup | cold serving vessel — small 120 g brew | preheat cup/mug before pouring |
 
 ## Historical Notes
 
-- Current hypothesis derived from experiments 1–3 on this coffee.
-- Based on [full immersion, 23 clicks](./full-immersion-23-clicks.md) (promising at 23 clicks / 140 g) and [full immersion, 22 clicks](./full-immersion-22-clicks.md) (22 clicks too bitter).
-- Parameters above — **not yet logged in cup**.
+- Hypothesis from experiments 1–3 confirmed in cup — very good result at 120 g / 23 clicks.
+- Supersedes [full immersion, 23 clicks](./full-immersion-23-clicks.md) (140 g) as best logged recipe for this coffee.
+- **Serving note:** remember to preheat cup/mug; concentrated small brew loses temperature quickly otherwise.
 - Previous: [full immersion, 22 clicks](./full-immersion-22-clicks.md)
 
 ## Related Recipes
@@ -149,9 +149,7 @@ Best observed so far in series ([full immersion, 23 clicks](./full-immersion-23-
 
 ## Future Experiments
 
-- Run this recipe and log Result.
-- Compare 120 g vs 130 g at 23 clicks if still slightly diluted.
+- Repeat with and without preheated cup — log taste after cooling.
+- Compare 120 g vs 130 g at 23 clicks.
 - Compare 23 vs 24 clicks at 120 g if bitterness appears.
-- Log whether post-drawdown 60 s rest changes sweetness or body.
-- Taste after cooling.
 - Add new experiment as a separate file in this folder; do not edit archived recipes.
