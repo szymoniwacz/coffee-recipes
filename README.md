@@ -30,6 +30,10 @@ Each method has its own template because different variables drive extraction an
 | V60 | Stable | Xin Chao Hanoi (100% Robusta, speciality) · 1996 Coffee | baseline | [recipes/robusta-honey/v60/stable.md](recipes/robusta-honey/v60/stable.md) |
 | V60 | Sweetness + body | Xin Chao Hanoi (100% Robusta, speciality) · 1996 Coffee | tested | [recipes/robusta-honey/v60/sweetness-body.md](recipes/robusta-honey/v60/sweetness-body.md) |
 | V60 Switch | Immersion, sweetness + body | Xin Chao Hanoi (100% Robusta, speciality) · 1996 Coffee | tested | [recipes/robusta-honey/v60-switch/immersion-sweetness-body.md](recipes/robusta-honey/v60-switch/immersion-sweetness-body.md) |
+| V60 Switch | bloom, 24 clicks | Fermented Vietnamese Specialty Robusta Culi | archived | [recipes/fermented-vietnamese-specialty-robusta-culi/v60-switch/bloom-24-clicks.md](recipes/fermented-vietnamese-specialty-robusta-culi/v60-switch/bloom-24-clicks.md) |
+| V60 Switch | full immersion, 23 clicks | Fermented Vietnamese Specialty Robusta Culi | experimental | [recipes/fermented-vietnamese-specialty-robusta-culi/v60-switch/full-immersion-23-clicks.md](recipes/fermented-vietnamese-specialty-robusta-culi/v60-switch/full-immersion-23-clicks.md) |
+| V60 Switch | full immersion, 22 clicks | Fermented Vietnamese Specialty Robusta Culi | experimental | [recipes/fermented-vietnamese-specialty-robusta-culi/v60-switch/full-immersion-22-clicks.md](recipes/fermented-vietnamese-specialty-robusta-culi/v60-switch/full-immersion-22-clicks.md) |
+| V60 Switch | full immersion, 23 clicks, 120 g | Fermented Vietnamese Specialty Robusta Culi | experimental | [recipes/fermented-vietnamese-specialty-robusta-culi/v60-switch/full-immersion-23-clicks-120g.md](recipes/fermented-vietnamese-specialty-robusta-culi/v60-switch/full-immersion-23-clicks-120g.md) |
 | Syphon 3-cup | Sweet | Xin Chao Hanoi (100% Robusta, speciality) · 1996 Coffee | tested | [recipes/robusta-honey/syphon/sweet.md](recipes/robusta-honey/syphon/sweet.md) |
 | Syphon 3-cup | Stable + bite | Xin Chao Hanoi (100% Robusta, speciality) · 1996 Coffee | tested | [recipes/robusta-honey/syphon/stable-bite.md](recipes/robusta-honey/syphon/stable-bite.md) |
 | Aeropress Prism | Sweet & Clean | Xin Chao Hanoi (100% Robusta, speciality) · 1996 Coffee | tested | [recipes/robusta-honey/aeropress-prism/sweet-clean.md](recipes/robusta-honey/aeropress-prism/sweet-clean.md) |
@@ -37,6 +41,8 @@ Each method has its own template because different variables drive extraction an
 | Aeropress | Paper filter | Xin Chao Hanoi (100% Robusta, speciality) · 1996 Coffee | tested | [recipes/robusta-honey/aeropress-paper/paper-filter.md](recipes/robusta-honey/aeropress-paper/paper-filter.md) |
 | Electric moka pot | Current baseline | Xin Chao Hanoi (100% Robusta, speciality) · 1996 Coffee | baseline | [recipes/robusta-honey/electric-moka-pot/current-baseline.md](recipes/robusta-honey/electric-moka-pot/current-baseline.md) |
 | Electric moka pot | Stronger, more concentrated | Xin Chao Hanoi (100% Robusta, speciality) · 1996 Coffee | experimental | [recipes/robusta-honey/electric-moka-pot/stronger-concentrated.md](recipes/robusta-honey/electric-moka-pot/stronger-concentrated.md) |
+
+**Fermented Vietnamese Specialty Robusta Culi (V60 Switch):** experiments are chronological — one file each. Best logged: [full immersion, 23 clicks](recipes/fermented-vietnamese-specialty-robusta-culi/v60-switch/full-immersion-23-clicks.md). Next to brew: [full immersion, 23 clicks, 120 g](recipes/fermented-vietnamese-specialty-robusta-culi/v60-switch/full-immersion-23-clicks-120g.md). Add future runs as new files in the same folder.
 
 ## Structure
 
@@ -57,6 +63,8 @@ coffee-recipes/
 │   ├── syphon-template.md
 │   └── electric-moka-pot-template.md
 └── recipes/
+    ├── fermented-vietnamese-specialty-robusta-culi/
+    │   └── v60-switch/
     └── robusta-honey/
         ├── v60/
         ├── v60-switch/
