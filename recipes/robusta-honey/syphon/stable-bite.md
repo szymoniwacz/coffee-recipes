@@ -1,5 +1,17 @@
 # Syphon 3-cup — Stable + bite
 
+## Quick Brew Card
+
+- **Dose:** 15 g · **Water:** 200 g · **Grind:** Comandante 20–21 clicks · **Temp:** TBD
+- **Immersion:** ~40–45 s after re-attach · **Drawdown:** TBD
+- **Key events:** upper on from start → nearly full → remove upper, add coffee, strong swirl → re-attach → swirl at 20 s → heat off at 40–45 s → drawdown
+
+## Short Version
+
+1. Upper on from start; heat until nearly full; remove upper, add coffee, one strong swirl.
+2. Re-attach; short swirl at 20 s.
+3. Remove heat at 40–45 s; wait for drawdown.
+
 ## Status
 
 - Status: tested

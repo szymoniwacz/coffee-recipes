@@ -1,5 +1,17 @@
 # Aeropress Prism — Killer
 
+## Quick Brew Card
+
+- **Dose:** 15 g · **Water:** 150 g · **Grind:** Comandante 18 clicks · **Temp:** 92°C
+- **Steep:** longer than Sweet & Clean (past 1:50) · **Press:** after 1:50, slow · **Total:** TBD
+- **Prism:** metal filter · no bypass · bloom 30 g → +120 g (150 g) · longer extraction before press
+
+## Short Version
+
+1. Bloom 30 g for 30–40 s; top up to 150 g (same as Sweet & Clean).
+2. Steep longer than 1:50 before placing plunger / pressing.
+3. Press slowly (exact timing TBD).
+
 ## Status
 
 - Status: tested

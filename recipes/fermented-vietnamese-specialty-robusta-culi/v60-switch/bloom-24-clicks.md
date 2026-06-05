@@ -1,5 +1,18 @@
 # V60 Switch — bloom, 24 clicks
 
+## Quick Brew Card
+
+- **Dose:** 10 g · **Water:** 140 g · **Grind:** Comandante C40 24 clicks · **Temp:** 90°C
+- **Valve:** closed · **Bloom:** 25 g / 40–45 s
+- **Immersion / release:** closed until 1:35 · open at 1:35 · total ~2:10–2:30
+- **Pour schedule:** Bloom 25 g (closed) → +115 g (140 g, closed) → release
+
+## Short Version
+
+1. Close valve. Bloom 25 g for 40–45 s.
+2. Top up to 140 g total; keep valve closed until 1:35.
+3. Open valve at 1:35; finish by ~2:10–2:30.
+
 ## Status
 
 - Status: archived

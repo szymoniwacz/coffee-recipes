@@ -1,5 +1,18 @@
 # V60 Switch — Immersion, sweetness + body
 
+## Quick Brew Card
+
+- **Dose:** 15 g · **Water:** 190 g · **Grind:** Comandante 24–25 clicks · **Temp:** 90°C
+- **Valve:** closed · **Bloom:** 40 g / 45 s
+- **Immersion / release:** closed 0:45–1:45 · open at 1:45 · total 2:30–2:50
+- **Pour schedule:** Bloom 40 g (closed) → +150 g (190 g, closed) → release
+
+## Short Version
+
+1. Close valve. Bloom 40 g for 45 s.
+2. Pour to 190 g total; keep valve closed until 1:45.
+3. Open valve at 1:45; drain by 2:30–2:50.
+
 ## Status
 
 - Status: tested

@@ -1,5 +1,16 @@
 # V60 — Balanced
 
+## Quick Brew Card
+
+- **Dose:** 15 g · **Water:** 200 g · **Grind:** Comandante 24 clicks · **Temp:** 92°C · **Brew time:** TBD
+- **Pour schedule:** Bloom 30 g → +45 g (75 g) → +45 g (120 g) → +45 g (165 g); remaining to 200 g TBD
+
+## Short Version
+
+1. Bloom 30 g (time TBD).
+2. Pour 45 g three times (75 → 120 → 165 g cumulative).
+3. Top up to 200 g total (final pour not documented).
+
 ## Status
 
 - Status: tested

@@ -1,5 +1,17 @@
 # Electric moka pot — Current baseline
 
+## Quick Brew Card
+
+- **Dose:** 15 g · **Water:** 220 g hot · **Grind:** Comandante 22 clicks · **Start temp:** hot water in base
+- **Target yield:** ~175 g
+- **Shutdown:** first bubbling **or** when stream lightens
+
+## Short Version
+
+1. Add 220 g hot water to base; 15 g leveled coffee in basket (no tamp).
+2. Start moka pot.
+3. Shut off at first bubbling or when stream lightens (~175 g yield).
+
 ## Status
 
 - Status: baseline

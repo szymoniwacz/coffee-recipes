@@ -1,5 +1,18 @@
 # V60 Switch — full immersion, 23 clicks, 120 g
 
+## Quick Brew Card
+
+- **Dose:** 10 g · **Water:** 120 g · **Grind:** Comandante C40 23 clicks · **Temp:** 90°C
+- **Valve:** closed · **Bloom:** no
+- **Immersion / release:** closed 0:00–1:30 · open at 1:30 · ~60 s rest after drawdown
+- **Pour schedule:** Pour 120 g immediately (closed) → minimal swirl → release at 1:30
+
+## Short Version
+
+1. Close valve. No bloom — pour 120 g immediately; minimal swirl.
+2. Keep valve closed until 1:30.
+3. Open at 1:30; after drawdown (~2:00), rest ~60 s before serving. *(Not yet brewed.)*
+
 ## Status
 
 - Status: experimental

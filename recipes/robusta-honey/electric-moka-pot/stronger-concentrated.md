@@ -1,5 +1,17 @@
 # Electric moka pot — Stronger, more concentrated
 
+## Quick Brew Card
+
+- **Dose:** 15 g · **Water:** 200 g · **Grind:** Comandante 18 clicks · **Start temp:** TBD
+- **Target yield:** TBD
+- **Shutdown:** TBD (compare [current baseline](./current-baseline.md): first bubbling or stream lightens)
+
+## Short Version
+
+1. Add 200 g water to base; 15 g coffee in basket.
+2. Start moka pot.
+3. Shut off timing TBD — workflow not documented in source.
+
 ## Status
 
 - Status: experimental

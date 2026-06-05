@@ -1,5 +1,16 @@
 # V60 — Sweetness + body
 
+## Quick Brew Card
+
+- **Dose:** 15 g · **Water:** 190 g · **Grind:** Comandante 24 clicks · **Temp:** 92°C · **Brew time:** ~3:30
+- **Pour schedule:** Bloom 30 g → +45 g (75 g) → +40 g (115 g) → +40 g (155 g) → +35 g (190 g)
+
+## Short Version
+
+1. Bloom 30 g (time TBD).
+2. Pour 45 g, 40 g, 40 g, then 35 g (190 g total).
+3. Target finish around 3:30.
+
 ## Status
 
 - Status: tested

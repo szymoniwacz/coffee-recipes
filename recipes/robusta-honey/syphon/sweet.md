@@ -1,5 +1,17 @@
 # Syphon 3-cup — Sweet
 
+## Quick Brew Card
+
+- **Dose:** 15 g · **Water:** 200 g · **Grind:** Comandante 21 clicks · **Temp:** TBD
+- **Immersion:** ~60 s contact in upper chamber · **Drawdown:** TBD (wait until drained)
+- **Key events:** water rises → add coffee → gentle stir → 60 s → remove heat → drawdown
+
+## Short Version
+
+1. Water in lower bowl; attach upper; wait for rise.
+2. Add 15 g coffee; stir gently; ~60 s contact.
+3. Remove heat; wait for drawdown to complete.
+
 ## Status
 
 - Status: tested

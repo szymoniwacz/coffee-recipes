@@ -1,5 +1,17 @@
 # Aeropress Prism — Sweet & Clean
 
+## Quick Brew Card
+
+- **Dose:** 15 g · **Water:** 150 g · **Grind:** Comandante 18 clicks · **Temp:** 92°C
+- **Steep:** 0:00–1:50 · **Press:** start 1:50, 20–40 s · **Total:** 2:10–2:30
+- **Prism:** metal filter · no bypass · bloom 30 g → +120 g (150 g) · 2 gentle stirs after top-up
+
+## Short Version
+
+1. Bloom 30 g for 30–40 s; top up to 150 g.
+2. Two gentle stirs; place plunger. Steep until 1:50.
+3. Press 20–40 s. Finish by 2:10–2:30.
+
 ## Status
 
 - Status: tested

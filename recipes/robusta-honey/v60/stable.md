@@ -1,5 +1,16 @@
 # V60 — Stable
 
+## Quick Brew Card
+
+- **Dose:** 15 g · **Water:** 200 g · **Grind:** Comandante 25 clicks · **Temp:** 92°C · **Brew time:** 2:45–3:10
+- **Pour schedule:** Bloom 30 g (45 s) → +45 g (75 g) → +40 g (115 g) → +40 g (155 g) → +45 g (200 g)
+
+## Short Version
+
+1. Bloom 30 g for 45 s.
+2. Pour 45 g, 40 g, 40 g, then 45 g (200 g total).
+3. Target finish between 2:45 and 3:10.
+
 ## Status
 
 - Status: baseline

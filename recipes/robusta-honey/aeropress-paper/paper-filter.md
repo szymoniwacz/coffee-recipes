@@ -1,5 +1,17 @@
 # Aeropress — Paper filter
 
+## Quick Brew Card
+
+- **Dose:** 15 g · **Water:** 150 g · **Grind:** Comandante 18 clicks · **Temp:** TBD
+- **Steep:** 0:00–~2:00 · **Press:** ~2:00, slow · **Total:** TBD
+- **Pour schedule:** Bloom 30 g → +120 g (150 g) · light stir after top-up
+
+## Short Version
+
+1. Bloom 30 g for 30–40 s; top up to 150 g.
+2. Light stir; steep ~2 min before pressing.
+3. Slow plunge from ~2:00.
+
 ## Status
 
 - Status: tested
