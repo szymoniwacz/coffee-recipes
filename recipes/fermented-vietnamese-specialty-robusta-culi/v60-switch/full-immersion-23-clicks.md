@@ -7,6 +7,11 @@
 - **Immersion / release:** closed 0:00–1:30 · open at 1:30 · drawdown ~2:00
 - **Pour schedule:** Pour 140 g immediately (closed) → release at 1:30
 
+### Taste Check
+- Rest after brewing: unknown
+- Best first sip: unknown
+- Best taste range: unknown
+
 ## Short Version
 
 1. Close valve. No bloom — pour 140 g immediately.
@@ -92,6 +97,13 @@ Full closed-valve immersion without bloom — finer than experiment 1 to improve
 - Fermentation character: unknown
 - Overall: much better than experiment 1; clearer flavor
 
+## Serving And Tasting
+
+- Recommended resting time after brewing: unknown
+- First tasting point: unknown
+- Optimal tasting temperature: unknown
+- Flavor evolution as coffee cools: unknown
+
 ## Extraction Logic
 
 - **Full immersion, no bloom:** immediate closed-valve pour outperformed experiment 1 (bloom + 24 clicks) — more flavor, less dilution.
@@ -108,7 +120,7 @@ Full closed-valve immersion without bloom — finer than experiment 1 to improve
 | More clarity | not tested — shorter immersion or earlier release |
 | More strength | less water (experiment 4); do not go finer than 22 without bitterness check |
 | Less bitterness | stay at 23 clicks or coarser — experiment 3 at 22 showed light bitterness |
-| Less acidity | not documented |
+| Less acidity | unknown |
 | Faster drawdown | coarser grind — risks dilution (experiment 1) |
 | Slower extraction | finer grind — risks bitterness (experiment 3) |
 

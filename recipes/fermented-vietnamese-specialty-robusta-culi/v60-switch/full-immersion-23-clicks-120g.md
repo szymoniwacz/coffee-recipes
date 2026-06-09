@@ -8,6 +8,11 @@
 - **Pour schedule:** Pour 120 g immediately (closed) → minimal swirl → release at 1:30
 - **Serve:** preheat cup/mug before pouring
 
+### Taste Check
+- Rest after brewing: ~60 s after drawdown
+- Best first sip: after rest, in preheated cup
+- Best taste range: unknown
+
 ## Short Version
 
 1. Preheat serving cup or mug.
@@ -95,6 +100,13 @@ More body, sweetness and concentration while keeping fermentation character unde
 - Fermentation character: under control
 - Dilution: less than 140 g runs
 - Overall: very good — best result in the series so far
+
+## Serving And Tasting
+
+- Recommended resting time after brewing: ~60 seconds after drawdown
+- First tasting point: after rest, once poured into preheated cup/mug
+- Optimal tasting temperature: unknown
+- Flavor evolution as coffee cools: unknown — preheat serving vessel to avoid rapid cooling
 
 ## Extraction Logic
 

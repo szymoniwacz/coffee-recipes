@@ -7,6 +7,11 @@
 - **Immersion / release:** closed until 1:35 · open at 1:35 · total ~2:10–2:30
 - **Pour schedule:** Bloom 25 g (closed) → +115 g (140 g, closed) → release
 
+### Taste Check
+- Rest after brewing: unknown
+- Best first sip: unknown
+- Best taste range: unknown
+
 ## Short Version
 
 1. Close valve. Bloom 25 g for 40–45 s.
@@ -93,6 +98,13 @@ First V60 Switch trial on this coffee — bloom then top-up to 140 g at 24 click
 - Fermentation character: light fermentation
 - Dilution: quite diluted
 
+## Serving And Tasting
+
+- Recommended resting time after brewing: unknown
+- First tasting point: unknown
+- Optimal tasting temperature: unknown
+- Flavor evolution as coffee cools: unknown
+
 ## Extraction Logic
 
 - **Bloom 25 g + 24 clicks:** coarser grind with pre-wet bloom produced a thinner, more diluted cup with insufficient body.
@@ -108,7 +120,7 @@ First V60 Switch trial on this coffee — bloom then top-up to 140 g at 24 click
 | More clarity | not tested |
 | More strength | finer grind or less water — see [full immersion, 23 clicks, 120 g](./full-immersion-23-clicks-120g.md) |
 | Less bitterness | coarser — already at 24 clicks; bitterness not observed |
-| Less acidity | not documented |
+| Less acidity | unknown |
 | Faster drawdown | coarser — already coarse; worsens dilution |
 | Slower extraction | finer; longer closed time before release |
 
@@ -119,8 +131,8 @@ First V60 Switch trial on this coffee — bloom then top-up to 140 g at 24 click
 | Watery / hollow | too coarse (24 clicks), bloom + high water | finer; full immersion — experiments 2–3 |
 | Muddy / heavy | not observed | — |
 | Bitter / dry | not observed at 24 clicks | — |
-| Sour / sharp | not documented | finer if underextracted |
-| Drawdown too slow | not documented | coarser |
+| Sour / sharp | unknown | finer if underextracted |
+| Drawdown too slow | unknown | coarser |
 | Diluted / thin body | observed — 140 g + 24 clicks + bloom | reduce water; finer; no bloom |
 
 ## Historical Notes

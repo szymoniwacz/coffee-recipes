@@ -7,6 +7,11 @@
 - **Immersion / release:** closed 0:00–1:30 · open at 1:30 · drawdown TBD
 - **Pour schedule:** Pour 140 g immediately (closed) → release at 1:30
 
+### Taste Check
+- Rest after brewing: unknown
+- Best first sip: unknown
+- Best taste range: unknown
+
 ## Short Version
 
 1. Close valve. No bloom — pour 140 g immediately.
@@ -92,6 +97,13 @@ Push extraction finer than experiment 2 (23 clicks) for more intensity at 140 g 
 - Fermentation character: unknown
 - Dilution: still felt slightly diluted
 
+## Serving And Tasting
+
+- Recommended resting time after brewing: unknown
+- First tasting point: unknown
+- Optimal tasting temperature: unknown
+- Flavor evolution as coffee cools: unknown
+
 ## Extraction Logic
 
 - **22 clicks:** finer than experiment 2 (23) — more pronounced cup but light bitterness; upper bound for grind on this coffee at 140 g.
@@ -108,7 +120,7 @@ Push extraction finer than experiment 2 (23 clicks) for more intensity at 140 g 
 | More clarity | not tested |
 | More strength | less water rather than finer than 22 clicks |
 | Less bitterness | coarser to 23 clicks (experiment 2 had none); do not use 22 clicks |
-| Less acidity | not documented |
+| Less acidity | unknown |
 | Faster drawdown | coarser — 23–24 clicks |
 | Slower extraction | finer — risks bitterness at 22 clicks and below |
 
@@ -119,7 +131,7 @@ Push extraction finer than experiment 2 (23 clicks) for more intensity at 140 g 
 | Watery / hollow | not primary issue — dilution persisted | reduce water; do not only go finer |
 | Muddy / heavy | possible at 22 clicks | coarser to 23 clicks |
 | Bitter / dry | observed — too fine (22 clicks) | coarser to 23–24 clicks |
-| Sour / sharp | not documented | — |
+| Sour / sharp | unknown | — |
 | Drawdown too slow | likely at 22 clicks | coarser |
 | Diluted / thin body | observed at 140 g | reduce to 120 g — experiment 4 |
 
