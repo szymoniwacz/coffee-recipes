@@ -9,6 +9,7 @@ Every recipe should document:
 - Exact brewing parameters
 - Brewing workflow
 - Observed results
+- Serving and tasting guidance (when to rest and evaluate the cup)
 - Historical context
 - Tuning guidance
 - Repeatability information
@@ -26,6 +27,15 @@ Examples:
 - recipes/robusta-honey/v60/sweetness-body.md
 - recipes/robusta-honey/syphon/sweet.md
 - recipes/robusta-honey/electric-moka-pot/current-baseline.md
+
+## Serving and tasting guidance
+
+Every recipe must document when to evaluate the cup, not only how to brew it.
+
+- Full recipe: **Serving And Tasting** section (after **Result**)
+- Quick Brew Card: **Taste Check** subsection
+
+Use `unknown` or `not documented` for fields without evidence. Do not invent tasting timing.
 
 ## Do not lose information
 
@@ -132,6 +142,25 @@ Examples:
 - Strength
 - Aftertaste
 - Taste after cooling
+
+### Serving And Tasting
+
+Mandatory in every recipe. Document when the cup should be evaluated, not only how it was brewed.
+
+- Recommended resting time after brewing
+- First tasting point
+- Optimal tasting temperature
+- Flavor evolution as coffee cools
+
+Many coffees (especially Robusta Honey) taste significantly different immediately after brewing versus a few minutes later.
+
+### Quick Brew Card — Taste Check
+
+Every recipe Quick Brew Card must include a compact tasting section:
+
+- Rest after brewing
+- Best first sip
+- Best taste range
 
 ### Extraction Logic
 

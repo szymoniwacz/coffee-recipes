@@ -22,8 +22,8 @@ Every recipe should include **Evidence** (sources + confidence: High / Medium / 
    | `electric-moka-pot/` | `templates/electric-moka-pot-template.md` |
 
 2. Use a **kebab-case** filename from the **cup profile** (e.g. `strong.md`, `sweet-clean.md`), not grinder clicks or pour counts.
-3. Keep **one recipe per file** and **all sections** from that method’s template (same order, same headings).
-4. Do **not** invent parameters or tasting results. Missing values → `unknown`.
+3. Keep **one recipe per file** and **all sections** from that method’s template (same order, same headings). This includes **Serving And Tasting** and the Quick Brew Card **Taste Check**.
+4. Do **not** invent parameters or tasting results. Missing values → `unknown` or `not documented`.
 5. **V60:** every pour row needs water added, total water, and timing when known.
 6. Set **Status** in the `## Status` section: `baseline`, `tested`, `experimental`, or `archived`.
 7. Update **README.md** recipe table and **Related Recipes** links where useful.

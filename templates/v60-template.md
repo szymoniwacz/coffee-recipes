@@ -1,5 +1,20 @@
 # Recipe Name
 
+## Quick Brew Card
+
+- **Dose:** · **Water:** · **Grind:** · **Temp:** · **Brew time:**
+
+### Taste Check
+- Rest after brewing:
+- Best first sip:
+- Best taste range:
+
+## Short Version
+
+1.
+2.
+3.
+
 ## Status
 - Status: baseline / tested / experimental / archived
 - Last updated:
@@ -75,6 +90,13 @@ Remove unused pour rows only if they do not apply.
 - Strength:
 - Aftertaste:
 - Taste after cooling:
+
+## Serving And Tasting
+
+- Recommended resting time after brewing:
+- First tasting point:
+- Optimal tasting temperature:
+- Flavor evolution as coffee cools:
 
 ## Extraction Logic
 

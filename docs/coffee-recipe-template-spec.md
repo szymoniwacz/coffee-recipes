@@ -33,6 +33,7 @@ templates/
 - Use grams, Celsius, and Comandante clicks where possible.
 - Always include brew ratio when coffee dose and water amount are known.
 - Keep tasting notes structured and comparable.
+- Every recipe must include serving and tasting guidance: when to rest the cup and when to evaluate it.
 - Keep historical notes. They are important.
 - Add cross-links to related recipes where useful.
 - Each method has its own variables, so each method needs its own template.
@@ -66,6 +67,8 @@ Every template should include these shared sections:
 
 ## Result
 
+## Serving And Tasting
+
 ## Tuning Guide
 
 ## Warning Signs
@@ -76,6 +79,36 @@ Every template should include these shared sections:
 
 ## Future Experiments
 ```
+
+## Quick Brew Card (all methods)
+
+Every recipe file starts with a Quick Brew Card for at-a-glance brewing. It must include a compact **Taste Check** subsection:
+
+```md
+## Quick Brew Card
+
+...
+
+### Taste Check
+- Rest after brewing:
+- Best first sip:
+- Best taste range:
+```
+
+## Serving And Tasting (all methods)
+
+Mandatory in every full recipe. Place after **Result** and before **Extraction Logic**.
+
+```md
+## Serving And Tasting
+
+- Recommended resting time after brewing:
+- First tasting point:
+- Optimal tasting temperature:
+- Flavor evolution as coffee cools:
+```
+
+Purpose: many coffees (especially Robusta Honey) taste significantly different immediately after brewing versus a few minutes later. Document not only how to brew, but when to evaluate the cup.
 
 ---
 
@@ -93,6 +126,21 @@ Template content:
 
 ```md
 # Recipe Name
+
+## Quick Brew Card
+
+- **Dose:** · **Water:** · **Grind:** · **Temp:** · **Brew time:**
+
+### Taste Check
+- Rest after brewing:
+- Best first sip:
+- Best taste range:
+
+## Short Version
+
+1.
+2.
+3.
 
 ## Status
 - Status: baseline / tested / experimental / archived
@@ -169,6 +217,13 @@ Remove unused pour rows only if they do not apply.
 - Aftertaste:
 - Taste after cooling:
 
+## Serving And Tasting
+
+- Recommended resting time after brewing:
+- First tasting point:
+- Optimal tasting temperature:
+- Flavor evolution as coffee cools:
+
 ## Extraction Logic
 
 Explain why the grind size, temperature, number of pours and pour amounts work for this recipe.
@@ -228,6 +283,21 @@ Template content:
 
 ```md
 # Recipe Name
+
+## Quick Brew Card
+
+- **Dose:** · **Water:** · **Grind:** · **Temp:** · **Brew time:**
+
+### Taste Check
+- Rest after brewing:
+- Best first sip:
+- Best taste range:
+
+## Short Version
+
+1.
+2.
+3.
 
 ## Status
 - Status: baseline / tested / experimental / archived
@@ -294,6 +364,13 @@ Template content:
 - Aftertaste:
 - Taste after cooling:
 
+## Serving And Tasting
+
+- Recommended resting time after brewing:
+- First tasting point:
+- Optimal tasting temperature:
+- Flavor evolution as coffee cools:
+
 ## Extraction Logic
 
 Explain how closed-valve immersion, bloom, release time and grind size affect this recipe.
@@ -346,6 +423,21 @@ Template content:
 
 ```md
 # Recipe Name
+
+## Quick Brew Card
+
+- **Dose:** · **Water:** · **Grind:** · **Temp:** · **Steep / press:**
+
+### Taste Check
+- Rest after brewing:
+- Best first sip:
+- Best taste range:
+
+## Short Version
+
+1.
+2.
+3.
 
 ## Status
 - Status: baseline / tested / experimental / archived
@@ -415,6 +507,13 @@ Template content:
 - Aftertaste:
 - Taste after cooling:
 
+## Serving And Tasting
+
+- Recommended resting time after brewing:
+- First tasting point:
+- Optimal tasting temperature:
+- Flavor evolution as coffee cools:
+
 ## Extraction Logic
 
 Explain why this recipe uses Prism, selected grind, steep time, agitation and pressure.
@@ -469,6 +568,21 @@ Template content:
 
 ```md
 # Recipe Name
+
+## Quick Brew Card
+
+- **Dose:** · **Water:** · **Grind:** · **Temp:** · **Steep / press:**
+
+### Taste Check
+- Rest after brewing:
+- Best first sip:
+- Best taste range:
+
+## Short Version
+
+1.
+2.
+3.
 
 ## Status
 - Status: baseline / tested / experimental / archived
@@ -538,6 +652,13 @@ Template content:
 - Aftertaste:
 - Taste after cooling:
 
+## Serving And Tasting
+
+- Recommended resting time after brewing:
+- First tasting point:
+- Optimal tasting temperature:
+- Flavor evolution as coffee cools:
+
 ## Extraction Logic
 
 Explain how paper filtration, grind size, steep time and pressure affect clarity and body.
@@ -590,6 +711,23 @@ Template content:
 
 ```md
 # Recipe Name
+
+## Quick Brew Card
+
+- **Dose:** · **Water:** · **Grind:** · **Temp:**
+- **Immersion:** · **Drawdown:**
+- **Key events:**
+
+### Taste Check
+- Rest after brewing:
+- Best first sip:
+- Best taste range:
+
+## Short Version
+
+1.
+2.
+3.
 
 ## Status
 - Status: baseline / tested / experimental / archived
@@ -665,6 +803,13 @@ Template content:
 - Aftertaste:
 - Taste after cooling:
 
+## Serving And Tasting
+
+- Recommended resting time after brewing:
+- First tasting point:
+- Optimal tasting temperature:
+- Flavor evolution as coffee cools:
+
 ## Extraction Logic
 
 Explain how filter type, grind, contact time, heat and swirl pattern affect the cup.
@@ -725,6 +870,22 @@ Template content:
 
 ```md
 # Recipe Name
+
+## Quick Brew Card
+
+- **Dose:** · **Water:** · **Grind:** · **Yield:**
+- **Shutdown cue:**
+
+### Taste Check
+- Rest after brewing:
+- Best first sip:
+- Best taste range:
+
+## Short Version
+
+1.
+2.
+3.
 
 ## Status
 - Status: baseline / tested / experimental / archived
@@ -791,6 +952,13 @@ Template content:
 - Roast / burnt notes:
 - Aftertaste:
 - Taste after cooling:
+
+## Serving And Tasting
+
+- Recommended resting time after brewing:
+- First tasting point:
+- Optimal tasting temperature:
+- Flavor evolution as coffee cools:
 
 ## Extraction Logic
 
