@@ -5,6 +5,11 @@
 - **Dose:** 15 g · **Water:** 200 g · **Grind:** Comandante 25–27 clicks (usually 25) · **Temp:** 91°C · **Brew time:** 2:45–3:10
 - **Pour schedule:** Bloom 30 g (45 s) → +60 g (90 g) → +55 g (145 g) → +55 g (200 g)
 
+### Taste Check
+- Rest after brewing: not documented
+- Best first sip: not documented
+- Best taste range: not documented
+
 ## Short Version
 
 1. Bloom 30 g for 45 s.
@@ -85,6 +90,13 @@ Original source title: *Mocna, 3 zalania* — three pours after bloom for a dens
 - Strength: high — strong, not watery
 - Aftertaste: not documented
 - Taste after cooling: not documented
+
+## Serving And Tasting
+
+- Recommended resting time after brewing: not documented
+- First tasting point: not documented
+- Optimal tasting temperature: not documented
+- Flavor evolution as coffee cools: not documented
 
 ## Extraction Logic
 

@@ -6,6 +6,11 @@
 - **Target yield:** ~175 g
 - **Shutdown:** first bubbling **or** when stream lightens
 
+### Taste Check
+- Rest after brewing: not documented
+- Best first sip: not documented
+- Best taste range: not documented
+
 ## Short Version
 
 1. Add 220 g hot water to base; 15 g leveled coffee in basket (no tamp).
@@ -94,6 +99,13 @@ Good flavor without strong overheating; about 175 g yield.
 - Aftertaste: not documented
 - Taste after cooling: not documented
 - Overall taste: good
+
+## Serving And Tasting
+
+- Recommended resting time after brewing: not documented
+- First tasting point: not documented
+- Optimal tasting temperature: not documented
+- Flavor evolution as coffee cools: not documented
 
 ## Extraction Logic
 

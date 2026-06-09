@@ -6,6 +6,11 @@
 - **Target yield:** TBD
 - **Shutdown:** TBD (compare [current baseline](./current-baseline.md): first bubbling or stream lightens)
 
+### Taste Check
+- Rest after brewing: not documented
+- Best first sip: not documented
+- Best taste range: not documented
+
 ## Short Version
 
 1. Add 200 g water to base; 15 g coffee in basket.
@@ -88,6 +93,13 @@ Not documented in source — only parameters and Result were provided.
 - Roast / burnt notes: slightly burnt character
 - Aftertaste: slightly burnt character
 - Taste after cooling: not documented
+
+## Serving And Tasting
+
+- Recommended resting time after brewing: not documented
+- First tasting point: not documented
+- Optimal tasting temperature: not documented
+- Flavor evolution as coffee cools: not documented
 
 ## Extraction Logic
 

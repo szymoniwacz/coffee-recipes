@@ -6,6 +6,11 @@
 - **Immersion:** ~40–45 s after re-attach · **Drawdown:** TBD
 - **Key events:** upper on from start → nearly full → remove upper, add coffee, strong swirl → re-attach → swirl at 20 s → heat off at 40–45 s → drawdown
 
+### Taste Check
+- Rest after brewing: 2–3 min
+- Best first sip: ~3 min after drawdown
+- Best taste range: warm, not very hot
+
 ## Short Version
 
 1. Upper on from start; heat until nearly full; remove upper, add coffee, one strong swirl.
@@ -111,6 +116,16 @@ Evolution from [Sweet](./sweet.md): more **body** and **character (bite)** — d
 - Aroma: not documented
 - Aftertaste: more “bite” — expressiveness
 - Taste after cooling: not documented
+
+## Serving And Tasting
+
+- Recommended resting time after brewing: 2–3 minutes after drawdown
+- First tasting point: approximately 3 minutes after drawdown
+- Optimal tasting temperature: approximately 55–65°C
+- Flavor evolution as coffee cools:
+  - Very hot: strongest aroma, sweetness less noticeable
+  - Warm: highest sweetness and best balance
+  - Cooler: sweetness remains, body slightly decreases
 
 ## Extraction Logic
 

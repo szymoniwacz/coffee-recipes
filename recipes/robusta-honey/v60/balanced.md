@@ -5,6 +5,11 @@
 - **Dose:** 15 g · **Water:** 200 g · **Grind:** Comandante 24 clicks · **Temp:** 92°C · **Brew time:** TBD
 - **Pour schedule:** Bloom 30 g → +45 g (75 g) → +45 g (120 g) → +45 g (165 g); remaining to 200 g TBD
 
+### Taste Check
+- Rest after brewing: not documented
+- Best first sip: not documented
+- Best taste range: not documented
+
 ## Short Version
 
 1. Bloom 30 g (time TBD).
@@ -86,6 +91,13 @@ Reference profile: *24 kliki* — even three pours after bloom at Comandante 24 
 - Aftertaste: not documented
 - Taste after cooling: not documented
 - Complexity: high — more interesting, more complex
+
+## Serving And Tasting
+
+- Recommended resting time after brewing: not documented
+- First tasting point: not documented
+- Optimal tasting temperature: not documented
+- Flavor evolution as coffee cools: not documented
 
 ## Extraction Logic
 

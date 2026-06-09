@@ -5,6 +5,11 @@
 - **Dose:** 15 g · **Water:** 190 g · **Grind:** Comandante 24 clicks · **Temp:** 92°C · **Brew time:** ~3:30
 - **Pour schedule:** Bloom 30 g → +45 g (75 g) → +40 g (115 g) → +40 g (155 g) → +35 g (190 g)
 
+### Taste Check
+- Rest after brewing: not documented
+- Best first sip: not documented
+- Best taste range: not documented
+
 ## Short Version
 
 1. Bloom 30 g (time TBD).
@@ -85,6 +90,13 @@ Original title: *24 kliki, 190 g* — pour-over variant at 1:12.7 ratio.
 - Strength: higher — more concentrated
 - Aftertaste: not documented
 - Taste after cooling: not documented
+
+## Serving And Tasting
+
+- Recommended resting time after brewing: not documented
+- First tasting point: not documented
+- Optimal tasting temperature: not documented
+- Flavor evolution as coffee cools: not documented
 
 ## Extraction Logic
 

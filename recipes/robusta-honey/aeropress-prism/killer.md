@@ -6,6 +6,11 @@
 - **Steep:** longer than Sweet & Clean (past 1:50) · **Press:** after 1:50, slow · **Total:** TBD
 - **Prism:** metal filter · no bypass · bloom 30 g → +120 g (150 g) · longer extraction before press
 
+### Taste Check
+- Rest after brewing: not documented
+- Best first sip: not documented
+- Best taste range: not documented
+
 ## Short Version
 
 1. Bloom 30 g for 30–40 s; top up to 150 g (same as Sweet & Clean).
@@ -95,6 +100,13 @@ More intensity and body; stronger, less delicate profile than Sweet & Clean.
 - Oiliness: not documented
 - Aftertaste: not documented
 - Taste after cooling: not documented
+
+## Serving And Tasting
+
+- Recommended resting time after brewing: not documented
+- First tasting point: not documented
+- Optimal tasting temperature: not documented
+- Flavor evolution as coffee cools: not documented
 
 ## Extraction Logic
 

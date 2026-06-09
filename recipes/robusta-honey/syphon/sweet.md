@@ -6,6 +6,11 @@
 - **Immersion:** ~60 s contact in upper chamber · **Drawdown:** TBD (wait until drained)
 - **Key events:** water rises → add coffee → gentle stir → 60 s → remove heat → drawdown
 
+### Taste Check
+- Rest after brewing: 2–3 min
+- Best first sip: ~3 min after drawdown
+- Best taste range: warm, not very hot
+
 ## Short Version
 
 1. Water in lower bowl; attach upper; wait for rise.
@@ -111,6 +116,16 @@ Profile emphasizes **sweetness and clarity** with classic syphon flow (water in 
 - Aroma: not documented
 - Aftertaste: cloth filter tasted more prominent
 - Taste after cooling: not documented
+
+## Serving And Tasting
+
+- Recommended resting time after brewing: 2–3 minutes after drawdown
+- First tasting point: approximately 3 minutes after drawdown
+- Optimal tasting temperature: approximately 55–65°C
+- Flavor evolution as coffee cools:
+  - Very hot: strongest aroma, sweetness less noticeable
+  - Warm: highest sweetness and best balance
+  - Cooler: sweetness remains, body slightly decreases
 
 ## Extraction Logic
 

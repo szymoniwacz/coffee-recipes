@@ -7,6 +7,11 @@
 - **Immersion / release:** closed 0:45–1:45 · open at 1:45 · total 2:30–2:50
 - **Pour schedule:** Bloom 40 g (closed) → +150 g (190 g, closed) → release
 
+### Taste Check
+- Rest after brewing: not documented
+- Best first sip: not documented
+- Best taste range: not documented
+
 ## Short Version
 
 1. Close valve. Bloom 40 g for 45 s.
@@ -92,6 +97,13 @@ Maximizes **sweetness** and **body** through long closed-valve immersion before 
 - Strength: not documented
 - Aftertaste: not documented
 - Taste after cooling: not documented
+
+## Serving And Tasting
+
+- Recommended resting time after brewing: not documented
+- First tasting point: not documented
+- Optimal tasting temperature: not documented
+- Flavor evolution as coffee cools: not documented
 
 ## Extraction Logic
 

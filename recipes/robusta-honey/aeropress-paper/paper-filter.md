@@ -6,6 +6,11 @@
 - **Steep:** 0:00–~2:00 · **Press:** ~2:00, slow · **Total:** TBD
 - **Pour schedule:** Bloom 30 g → +120 g (150 g) · light stir after top-up
 
+### Taste Check
+- Rest after brewing: not documented
+- Best first sip: not documented
+- Best taste range: not documented
+
 ## Short Version
 
 1. Bloom 30 g for 30–40 s; top up to 150 g.
@@ -95,6 +100,13 @@ Cleaner, milder cup with less body than Prism.
 - Cleanliness: high — cleaner, milder
 - Aftertaste: milder; less oily
 - Taste after cooling: not documented
+
+## Serving And Tasting
+
+- Recommended resting time after brewing: not documented
+- First tasting point: not documented
+- Optimal tasting temperature: not documented
+- Flavor evolution as coffee cools: not documented
 
 ## Extraction Logic
 

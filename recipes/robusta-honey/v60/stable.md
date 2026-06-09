@@ -5,6 +5,11 @@
 - **Dose:** 15 g · **Water:** 200 g · **Grind:** Comandante 25 clicks · **Temp:** 92°C · **Brew time:** 2:45–3:10
 - **Pour schedule:** Bloom 30 g (45 s) → +45 g (75 g) → +40 g (115 g) → +40 g (155 g) → +45 g (200 g)
 
+### Taste Check
+- Rest after brewing: not documented
+- Best first sip: not documented
+- Best taste range: not documented
+
 ## Short Version
 
 1. Bloom 30 g for 45 s.
@@ -85,6 +90,13 @@ Very full body, lots of sweetness, and good taste after cooling.
 - Strength: not documented
 - Aftertaste: not documented
 - Taste after cooling: good — good after cooling
+
+## Serving And Tasting
+
+- Recommended resting time after brewing: not documented
+- First tasting point: not documented
+- Optimal tasting temperature: not documented
+- Flavor evolution as coffee cools: not documented
 
 ## Extraction Logic
 
