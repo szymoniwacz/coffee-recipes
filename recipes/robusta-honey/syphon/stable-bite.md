@@ -179,6 +179,7 @@ Evolution from [Sweet](./sweet.md): more **body** and **character (bite)** — d
 
 - See also:
   - [Syphon — Sweet](./sweet.md)
+  - [Syphon — Metal + cloth, sweet + expressive](./metal-cloth-sweet-expressive.md)
   - [Aeropress Prism — Killer](../aeropress-prism/killer.md)
 
 ## Future Experiments

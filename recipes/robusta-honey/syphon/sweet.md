@@ -179,6 +179,7 @@ Profile emphasizes **sweetness and clarity** with classic syphon flow (water in 
 
 - See also:
   - [Syphon — Stable + bite](./stable-bite.md)
+  - [Syphon — Metal + cloth, sweet + expressive](./metal-cloth-sweet-expressive.md)
   - [V60 Switch — Immersion, sweetness + body](../v60-switch/immersion-sweetness-body.md)
 
 ## Future Experiments
