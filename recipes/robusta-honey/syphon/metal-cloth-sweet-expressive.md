@@ -171,6 +171,7 @@ Workflow not documented on first test (2026-06-13). Log on next brew:
 - See also:
   - [Syphon — Sweet](./sweet.md) — cloth only, 21 clicks
   - [Syphon — Stable + bite](./stable-bite.md) — cloth only, 20–21 clicks
+  - [Syphon — Metal + cloth, 21 clicks, ~60°C](./metal-cloth-21-clicks-60c.md) — finer grind, ~60°C tasting
   - [V60 Switch — Immersion, sweetness + body](../v60-switch/immersion-sweetness-body.md)
 
 ## Future Experiments
