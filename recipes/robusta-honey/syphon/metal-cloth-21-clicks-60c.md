@@ -4,7 +4,7 @@
 
 - **Dose:** 15 g · **Water:** 200 g · **Grind:** Comandante 21 clicks · **Temp:** not documented
 - **Immersion:** not documented · **Drawdown:** not documented
-- **Key events:** not documented — workflow not logged
+- **Key events:** stir on coffee add → stir again at 20 s → wait for ~60°C before tasting
 - **Filter:** metal with additional cloth filter
 
 ### Taste Check
@@ -15,12 +15,12 @@
 ## Short Version
 
 1. Syphon with metal filter and cloth filter layered on top.
-2. 15 g coffee, 200 g water, Comandante 21 clicks.
+2. 15 g coffee, 200 g water, Comandante 21 clicks; stir at start, stir again at 20 s.
 3. Wait until coffee is ~60°C before tasting.
 
 ## Status
 
-- Status: experimental
+- Status: tested
 - Last updated: 2026-06-13
 
 ## Coffee
@@ -34,7 +34,7 @@
 
 ## Goal
 
-Variant of [Metal + cloth, sweet + expressive](./metal-cloth-sweet-expressive.md) at **21 clicks** with explicit **~60°C tasting point** — finer grind than 20-click baseline; evaluate cup once cooled to target temperature.
+Preferred metal + cloth variant: **21 clicks**, stir at start and at 20 s, taste at **~60°C**. Sweeter than [Metal + cloth, sweet + expressive](./metal-cloth-sweet-expressive.md) at 20 clicks.
 
 ## Equipment
 
@@ -80,17 +80,20 @@ Variant of [Metal + cloth, sweet + expressive](./metal-cloth-sweet-expressive.md
 
 | Time | Action | Intensity | Notes |
 |---|---|---|---|
-| Coffee added | not documented | — | workflow not logged |
-| 20 s | — | — | not documented |
+| Coffee added | stir | not documented | at start, after adding coffee |
+| 20 s | stir | not documented | second stir |
 | 40–45 s | — | — | not documented |
 | Before drawdown | — | — | not documented |
 
 ## Brewing Workflow
 
-Same parameters as [Metal + cloth, sweet + expressive](./metal-cloth-sweet-expressive.md) except **21 clicks**. Workflow not documented — log on next brew:
-- upper on from start vs water in lower bowl first
-- stir / swirl pattern
-- contact time before removing heat
+1. Brew with metal + cloth filter; 15 g / 200 g / 21 clicks.
+2. Stir when coffee is added.
+3. Stir again at 20 s.
+4. Complete drawdown (heat removal and contact time not logged).
+5. Wait until coffee reaches ~60°C before tasting.
+
+Not yet logged: upper on from start vs water in lower bowl first; when to remove heat; contact duration.
 
 ## Drawdown
 
@@ -102,7 +105,7 @@ Same parameters as [Metal + cloth, sweet + expressive](./metal-cloth-sweet-expre
 
 ## Result
 
-- Sweetness: not documented
+- Sweetness: high — sweeter than [Metal + cloth, sweet + expressive](./metal-cloth-sweet-expressive.md) at 20 clicks; preferred cup
 - Body: not documented
 - Acidity: not documented
 - Bitterness: not documented
@@ -110,7 +113,7 @@ Same parameters as [Metal + cloth, sweet + expressive](./metal-cloth-sweet-expre
 - Strength: not documented
 - Aroma: not documented
 - Aftertaste: not documented
-- Taste after cooling: not documented — evaluate at ~60°C
+- Taste after cooling: best at ~60°C
 
 ## Serving And Tasting
 
@@ -121,7 +124,8 @@ Same parameters as [Metal + cloth, sweet + expressive](./metal-cloth-sweet-expre
 
 ## Extraction Logic
 
-- **21 clicks:** one click finer than [Metal + cloth, sweet + expressive](./metal-cloth-sweet-expressive.md) (20 clicks); same as [Sweet](./sweet.md) cloth-only recipe.
+- **21 clicks:** one click finer than 20-click variant — documented higher sweetness.
+- **Stir at start + 20 s:** even extraction; second stir matches timing used in [Stable + bite](./stable-bite.md).
 - **~60°C tasting:** aligns with warm range in existing syphon recipes (55–65°C); avoids very hot cup where sweetness is less noticeable.
 - **Metal + cloth:** same dual-filter setup as 20-click variant.
 
@@ -129,7 +133,7 @@ Same parameters as [Metal + cloth, sweet + expressive](./metal-cloth-sweet-expre
 
 | Goal | Change |
 |---|---|
-| More sweetness | [Metal + cloth, sweet + expressive](./metal-cloth-sweet-expressive.md) at 20 clicks |
+| More sweetness | already sweeter than 20 clicks — finer beyond 21 not tested |
 | More body | coarser (20 clicks); [Stable + bite](./stable-bite.md) swirl pattern |
 | More clarity | cloth-only [Sweet](./sweet.md) |
 | More strength | already finer at 21 — not tested beyond |
@@ -152,7 +156,8 @@ Same parameters as [Metal + cloth, sweet + expressive](./metal-cloth-sweet-expre
 ## Historical Notes
 
 - Added 2026-06-13 — variant of metal + cloth syphon at 21 clicks with ~60°C tasting target.
-- vs [Metal + cloth, sweet + expressive](./metal-cloth-sweet-expressive.md): +1 click finer; explicit 60°C tasting vs light rest / slight cooling.
+- Tested same day: stir at start + at 20 s; sweeter and preferred over 20-click variant.
+- vs [Metal + cloth, sweet + expressive](./metal-cloth-sweet-expressive.md): +1 click finer; explicit 60°C tasting; documented higher sweetness.
 
 ## Evidence
 
@@ -160,10 +165,12 @@ Same parameters as [Metal + cloth, sweet + expressive](./metal-cloth-sweet-expre
 |---|---|---|---|
 | Parameters (15 g / 200 g / 21 clicks) | As documented | User request 2026-06-13 | **High** |
 | Filter (metal + cloth) | As documented | Same as 20-click variant | **High** |
-| Tasting at ~60°C | Serving And Tasting | User request 2026-06-13 | **High** |
-| Result, workflow | not documented | No source | — |
+| Tasting at ~60°C | Serving And Tasting | User test 2026-06-13 | **High** |
+| Stir at start + 20 s | Brewing Workflow | User test 2026-06-13 | **High** |
+| Result (sweeter, preferred) | Result section | User test 2026-06-13 | **High** |
+| Heat removal, contact time, setup sequence | not documented | No source | — |
 
-**Overall confidence:** **High** (parameters, filter, tasting); **Low** for repeatability until workflow and Result are logged.
+**Overall confidence:** **High** (parameters, filter, stir pattern, result); **Medium** until heat removal and setup are logged.
 
 ## Related Recipes
 
@@ -174,5 +181,5 @@ Same parameters as [Metal + cloth, sweet + expressive](./metal-cloth-sweet-expre
 
 ## Future Experiments
 
-- Log full workflow; compare Result vs 20-click variant at ~60°C.
-- A/B: 20 vs 21 clicks at same tasting temperature.
+- Log heat removal time and upper-chamber setup sequence.
+- Compare body and expressiveness vs 20-click variant at same ~60°C tasting point.

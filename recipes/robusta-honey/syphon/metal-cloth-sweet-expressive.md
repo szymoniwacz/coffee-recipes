@@ -154,6 +154,7 @@ Workflow not documented on first test (2026-06-13). Log on next brew:
 - First logged: 2026-06-13 — user test with metal + cloth filter at 20 clicks.
 - **Novel setup:** metal filter with cloth layered on top — differs from cloth-only [Sweet](./sweet.md) and [Stable + bite](./stable-bite.md).
 - **Workflow gap:** parameters and result logged; brewing sequence not recorded.
+- **vs 21-click variant:** [Metal + cloth, 21 clicks, ~60°C](./metal-cloth-21-clicks-60c.md) documented sweeter and preferred (2026-06-13).
 
 ## Evidence
 
@@ -171,7 +172,7 @@ Workflow not documented on first test (2026-06-13). Log on next brew:
 - See also:
   - [Syphon — Sweet](./sweet.md) — cloth only, 21 clicks
   - [Syphon — Stable + bite](./stable-bite.md) — cloth only, 20–21 clicks
-  - [Syphon — Metal + cloth, 21 clicks, ~60°C](./metal-cloth-21-clicks-60c.md) — finer grind, ~60°C tasting
+  - [Syphon — Metal + cloth, 21 clicks, ~60°C](./metal-cloth-21-clicks-60c.md) — finer grind, sweeter, preferred
   - [V60 Switch — Immersion, sweetness + body](../v60-switch/immersion-sweetness-body.md)
 
 ## Future Experiments
